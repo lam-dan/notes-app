@@ -1,6 +1,5 @@
-# notes-app
-
-Created a note taking app for node.js
+### notes-app
+Created a note taking app for node.js.
 
 To start the note taking app, simply do the following:
 
